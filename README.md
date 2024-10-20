@@ -1,6 +1,5 @@
 # Projetos
 
-
 ## [Scraper Filmes](https://github.com/levyvix/scraper-filmes)
 
 ### Blog: [Medium](https://medium.com/@levyvix/como-fazer-raspagem-de-dados-em-sites-com-scrapy-e-python-1cc315f301fb?source=user_profile_page---------1-------------4f47e1b1b6a8---------------)
@@ -33,13 +32,17 @@ Descrição: Script para resolver o jogo Wordle automaticamente usando visão co
 
 Tecnologias: Python, Selenium, OpenCV
 
+## [Pipeline de dados Medallion com DuckDB e S3](https://github.com/levyvix/duckdb_s3)
+
+Descrição: Pipeline de dados para extrair dados de API, enviar para S3 e processar com DuckDB.
+
+Tecnologias: Python, AWS, DuckDB, S3
 
 ## [Projeto Streaming Azure](https://github.com/levyvix/projeto-streaming-azure)
 
 Descrição: Pipeline de processamento de dados em tempo real utilizando serviços da Azure.
 
 Tecnologias: Python, Azure, Azure Data Lake, Azure Stream Analytics, Azure Event Hubs
-
 
 ## [YouTube Video Downloader](https://github.com/levyvix/youtube_video_downloader)
 
@@ -53,13 +56,12 @@ Descrição: Scraper para coletar dados de vídeos do YouTube.
 
 Tecnologias: Python, Pandas, Selenium
 
-
 ## [Big Data com AWS e Databricks](https://github.com/levyvix/big_data_ada_databricks)
 
 Descrição: Projeto de Big Data integrando AWS e Databricks para análise de grandes volumes de dados.
 
 Tecnologias: Python, AWS, Databricks, Pyspark
- 
+
 ## [DW do Zero com DBT](https://github.com/levyvix/dw_do_zero)
 
 Descrição: Construção de um Data Warehouse do zero utilizando DBT.
@@ -89,7 +91,6 @@ Tecnologias: Python, FastAPI, Kubernetes
 Descrição: CLI e API que raspa um site de advogados e retorna os dados em JSON.
 
 Tecnologias: Python, FastAPI, SQLAlchemy, PostgreSQL
-
 
 ## [Dags em Airflow](https://github.com/levyvix/airflow_astro)
 
@@ -150,4 +151,3 @@ Tecnologias: Python, PCA, Scikit-learn
 Descrição: Script para ajudar a resolver o jogo Word of Wonder.
 
 Tecnologias: Python
-
