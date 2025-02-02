@@ -38,11 +38,11 @@ Descrição: Pipeline de dados para extrair dados de API, enviar para S3 e proce
 
 Tecnologias: Python, AWS, DuckDB, S3
 
-## [Projeto Streaming Azure](https://github.com/levyvix/projeto-streaming-azure)
+## [Projeto Streaming Google Cloud Platform](https://github.com/levyvix/projeto-streaming-gcp)
 
-Descrição: Pipeline de processamento de dados em tempo real utilizando serviços da Azure.
+Descrição: Pipeline de processamento de dados em tempo real utilizando serviços da GCP.
 
-Tecnologias: Python, Azure, Azure Data Lake, Azure Stream Analytics, Azure Event Hubs
+Tecnologias: Python, GCP, Google Pub Sub, Google BigQuery.
 
 ## [YouTube Video Downloader](https://github.com/levyvix/youtube_video_downloader)
 
